@@ -1,0 +1,5 @@
+﻿  RK1_Final.cpp
+C:\Users\СБГ\Source\Repos\RK1_Final\RK1_Final\RK1_Final.cpp(42,35): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\СБГ\Source\Repos\RK1_Final\RK1_Final\RK1_Final.cpp(76,22): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\СБГ\Source\Repos\RK1_Final\RK1_Final\RK1_Final.cpp(96,11): warning C4101: dataOfFile: неиспользованная локальная переменная
+  RK1_Final.vcxproj -> C:\Users\СБГ\Source\Repos\RK1_Final\Debug\RK1_Final.exe
